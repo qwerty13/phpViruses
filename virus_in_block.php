@@ -1,6 +1,6 @@
 <?php 
-$lujin = '/home/qwertyir/domains/mortezarastegar.ir/private_html/wp-admin/images/';
-$insj = '/home/qwertyir/domains/mortezarastegar.ir/private_html/index.php';
+$lujin = '/home/"my User"/domains/"my Domain"/private_html/wp-admin/images/';
+$insj = '/home/"my User"/domains/"my Domain"/private_html/index.php';
 $plsj = '';
 $inym = $lujin . '1ogo.png';
 $plym = $lujin . 'sp1it.png';
